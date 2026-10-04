@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+
+.rojo {
+    color: rgb(223, 61, 61);
+}
+
+.imagen {
+    width: 150px;
+    height: 150px;
+}
